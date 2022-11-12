@@ -1,2 +1,2 @@
 # JavaProject1
-### this the testing process
+### This is the testing process
